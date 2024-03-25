@@ -1,4 +1,4 @@
-#Mobile Applications Project Assignment with Flutter
+# Mobile Applications Project Assignment with Flutter
 A simple `mobile game` you can make with basic flutter knowledge
 ```
 We are looking for our randomly assigned number between 1 and 25 that appears on the screen
